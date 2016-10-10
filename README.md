@@ -1,0 +1,2 @@
+# MyStore
+Store of names
